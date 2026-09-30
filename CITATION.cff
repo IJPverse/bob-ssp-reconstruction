@@ -3,6 +3,11 @@ message: "If you use this software, please cite it as below, alongside the assoc
 title: "Bay of Bengal SSP Reconstruction Code"
 version: "1.0.0"
 date-released: "2026-XX-XX"
+doi: "10.5281/zenodo.23066120"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23066120"
+    description: "Version-specific DOI for v1.0.0 (this release)"
 authors:
   - family-names: "Powsi"
     given-names: "Israt Jahan"
@@ -17,7 +22,7 @@ authors:
     affiliation: "Department of Physics, University of Barishal, Barishal-8254, Bangladesh"
     orcid: "https://orcid.org/0000-0002-3925-4900"
     email: "dmkalam@bu.ac.bd"
-repository-code: "https://github.com/[org]/[repo]"
+repository-code: "https://github.com/IJPverse/bob-ssp-reconstruction"
 license: MIT
 preferred-citation:
   type: article
