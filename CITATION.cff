@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, alongside the associated manuscript."
+title: "Bay of Bengal SSP Reconstruction Code"
+version: "1.0.0"
+date-released: "2026-XX-XX"
+authors:
+  - family-names: "Powsi"
+    given-names: "Israt Jahan"
+    affiliation: "Department of Physics, University of Barishal, Barishal-8254, Bangladesh"
+    orcid: "https://orcid.org/0009-0008-0484-897X"
+  - family-names: "Miah"
+    given-names: "Rayhan"
+    affiliation: "Department of Physics, University of Barishal, Barishal-8254, Bangladesh"
+    orcid: "https://orcid.org/0009-0006-0900-590X"
+  - family-names: "Alam"
+    given-names: "Md Khorshed"
+    affiliation: "Department of Physics, University of Barishal, Barishal-8254, Bangladesh"
+    orcid: "https://orcid.org/0000-0002-3925-4900"
+    email: "dmkalam@bu.ac.bd"
+repository-code: "https://github.com/[org]/[repo]"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Dual-Layer AI Framework for Real-Time Sound Speed Profile Reconstruction and Acoustic Risk Mapping in the Bay of Bengal"
+  authors:
+    - family-names: "Powsi"
+      given-names: "Israt Jahan"
+    - family-names: "Miah"
+      given-names: "Rayhan"
+    - family-names: "Alam"
+      given-names: "Md Khorshed"
+  journal: "Ocean Engineering"
+  year: 2026
+  doi: "[paper DOI once assigned]"
