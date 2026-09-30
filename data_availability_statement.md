@@ -11,7 +11,7 @@ Replace the current sentence in the manuscript:
 
 > The code that supports the findings of this study — the XGBoost training pipeline, Mackenzie
 > (1981)/TEOS-10/EOF baseline comparisons, SHAP analysis, and the LLM tactical-interpretation
-> layer — is openly available on Zenodo at https://doi.org/10.5281/zenodo.XXXXXXX (Powsi et al.,
+> layer — is openly available on Zenodo at https://doi.org/10.5281/zenodo.23066120 (Powsi et al.,
 > 2026). The underlying in-situ and satellite observational data are publicly available from the
 > Argo float network (argo.ucsd.edu) and the World Ocean Database
 > (ncei.noaa.gov/products/world-ocean-database); the compiled and quality-controlled dataset used
@@ -33,7 +33,7 @@ Notes:
   upload).
 - Once you archive on Zenodo, also add the in-text citation "(Powsi et al., 2026)" for the code to
   the **References** list in the same author-year format as your other entries, e.g.:
-  `Powsi, I.J., Miah, R., Alam, M.K., 2026. Bay of Bengal SSP Reconstruction Code (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX`
+  `Powsi, I.J., Miah, R., Alam, M.K., 2026. Bay of Bengal SSP Reconstruction Code (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23066120`
 - If you'd rather not name the corresponding-author-on-request path for the compiled dataset, you
   can instead deposit the CSV itself on Zenodo (as a separate or combined deposit) and cite that
   DOI directly — this is the strongest option for reviewer reproducibility, since it removes the
