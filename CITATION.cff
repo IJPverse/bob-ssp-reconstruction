@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below, alongside the associated manuscript."
 title: "Bay of Bengal SSP Reconstruction Code"
 version: "1.0.0"
-date-released: "2026-XX-XX"
+date-released: "2026-10-01"
 doi: "10.5281/zenodo.23066120"
 identifiers:
   - type: doi
