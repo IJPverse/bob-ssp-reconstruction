@@ -1,11 +1,9 @@
 # Bay of Bengal Sound-Speed Profile Reconstruction — Code Release
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23066120.svg)](https://doi.org/10.5281/zenodo.23066120)
+
 Physics-constrained XGBoost reconstruction of sound-speed profiles in the Bay of Bengal, with
 SHAP-based explainability and an LLM tactical-interpretation layer.
-
-Code accompanying: *A Dual-Layer AI Framework for Real-Time Sound Speed Profile Reconstruction and
-Acoustic Risk Mapping in the Bay of Bengal*, Israt Jahan Powsi, Rayhan Miah, Md Khorshed Alam,
-submitted to Ocean Engineering, 2026.
 
 Department of Physics, University of Barishal, Barishal-8254, Bangladesh.
 Corresponding author: Md Khorshed Alam (dmkalam@bu.ac.bd).
@@ -100,11 +98,10 @@ Run `notebooks/core_pipeline.ipynb` top to bottom:
 If you use this code, please cite both the paper and the software (see `CITATION.cff`):
 
 > Powsi, I.J., Miah, R., Alam, M.K., 2026. A Dual-Layer AI Framework for Real-Time Sound Speed
-> Profile Reconstruction and Acoustic Risk Mapping in the Bay of Bengal. *Ocean Engineering*,
-> [vol/pages]. https://doi.org/[paper DOI]
+> Profile Reconstruction and Acoustic Risk Mapping in the Bay of Bengal. 
 >
 > Powsi, I.J., Miah, R., Alam, M.K., 2026. Bay of Bengal SSP Reconstruction Code (Version 1.0.0)
-> [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> [Software]. Zenodo. https://doi.org/10.5281/zenodo.23066120
 
 ## License
 
